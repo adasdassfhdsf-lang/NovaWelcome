@@ -1,0 +1,19 @@
+name: NovaWelcome
+version: 1.0.0
+main: com.novablox.welcome.NovaWelcome
+api-version: '1.21'
+author: NOVABLOX
+description: Türkçe karşılama ve sunucu bilgileri.
+commands:
+  rules:
+    description: Sunucu kurallarını gösterir.
+  discord:
+    description: Discord adresini gösterir.
+  website:
+    description: Web sitesi adresini gösterir.
+  setmotd:
+    description: MOTD metnini ayarlar.
+    usage: /setmotd <mesaj>
+    permission: novawelcome.setmotd
+permissions:
+  novawelcome.setmotd: { default: op }

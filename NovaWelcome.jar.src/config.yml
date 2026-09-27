@@ -1,0 +1,12 @@
+messages:
+  first-join: "&bHoş geldin &f{player}&b! Sunucumuza ilk kez katıldın."
+  join: "&8[&a+&8] &a{player}"
+  quit: "&8[&c-&8] &c{player}"
+  discord: "&bDiscord: &fdiscord.gg/novablox"
+  website: "&bWeb: &fwww.novablox.net"
+rules:
+  - "&61. &fSaygılı ol."
+  - "&62. &fReklam ve spam yapma."
+  - "&63. &fHile kullanma."
+  - "&64. &fYetkililerin kararlarına uy."
+motd: "&b&lNOVABLOX &8» &fSunucumuza hoş geldin!"
